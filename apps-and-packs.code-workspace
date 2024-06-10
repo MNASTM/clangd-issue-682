@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "app1"
+		},
+		{
+			"path": "app2"
+		},
+		{
+			"path": "pack-div@1.0.0"
+		},
+		{
+			"path": "pack-div@2.0.0"
+		}
+	]
+}
